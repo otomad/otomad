@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-![Carbon's github stats](https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&theme=midnight-purple)
+	[![Otomad's github stats](https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
