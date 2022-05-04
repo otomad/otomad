@@ -30,6 +30,12 @@ You can click the Preview link to take a look at your changes.
 #### IDE
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](http://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](http://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)](http://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/-ReSharper-000000?style=flat-square&logo=resharper&logoColor=white)](http://www.jetbrains.com/resharper/)
+[![](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
+[![](https://img.shields.io/badge/-Eclipse-525C86?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
 #### Language
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://tc39.es)
@@ -49,9 +55,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown)
 [![](https://img.shields.io/badge/-MediaWiki-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)](https://www.w3.org/Graphics/SVG/)
-[![](https://img.shields.io/badge/-XML-000000?style=flat-square&logo=xml&logoColor=white)](https://www.w3.org/Graphics/SVG/)
-[![](https://img.shields.io/badge/-Matlab-000000?style=flat-square&logo=matlab&logoColor=white)](https://www.w3.org/Graphics/SVG/)
-[![](https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=verilog&logoColor=white)](https://www.w3.org/Graphics/SVG/)
+[![](https://img.shields.io/badge/-XML-E34F26?style=flat-square&logo=xml&logoColor=white)](https://www.w3.org/XML/)
+[![](https://img.shields.io/badge/-Matlab-FA8108?style=flat-square&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![](https://img.shields.io/badge/-Verilog-014886?style=flat-square&logo=verilog&logoColor=white)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
 
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
