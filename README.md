@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=arm&logoColor=white)](https://www.arm.com/)
 [![](https://img.shields.io/badge/-STM-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![](https://img.shields.io/badge/-ESP-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![](https://img.shields.io/badge/-MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)](https://micropython.org/)
 
 #### Tools
