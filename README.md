@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](http://gcc.gnu.org/)
 [![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://docs.microsoft.com/dotnet/visual-basic/)
-[![](https://img.shields.io/badge/-Java-D91318?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/-Java-D91318?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)<!-- Cool, Java icon has been removed!!! -->
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
