@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!-- </div> -->
 ----
 
-#### Operating System
+#### OS
 [![](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0078d4)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.google.cn/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
