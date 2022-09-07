@@ -76,6 +76,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)
 [![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/-rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)](https://rollupjs.org/)
 [![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)](https://www.opengl.org/)
