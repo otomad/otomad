@@ -13,8 +13,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <div align="center" class="flex"> -->
 
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)<br />
+![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)<br />
 [![Otomad's github stats](https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![contributions](contributions.svg)
 
 <!-- </div> -->
 ----
