@@ -52,11 +52,11 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)](https://kotlinlang.org/)
-[![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/uwp/xaml-platform/xaml-overview)
+[![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown)
-[![](https://img.shields.io/badge/-MediaWiki-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-MediaWiki-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://www.mediawiki.org/wiki/MediaWiki)
 [![](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)](https://www.w3.org/Graphics/SVG/)
 [![](https://img.shields.io/badge/-XML-E34F26?style=flat-square&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 [![](https://img.shields.io/badge/-Matlab-FA8108?style=flat-square&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
@@ -85,13 +85,13 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
 #### Proficient
-[![](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice)](#)<br />
+[![](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice)](https://www.office.com/)<br />
 [![](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)](https://www.microsoft.com/microsoft-365/word/)
 [![](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel/)
 [![](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint/)
 [![](https://img.shields.io/badge/-Visio-2B579A?style=flat-square&logo=microsoftvisio&logoColor=white)](https://www.microsoft.com/microsoft-365/visio/)
 
-[![](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud)](#)<br />
+[![](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud)](https://www.adobe.com/creativecloud.html)<br />
 [![](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/-Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white)](https://www.adobe.com/products/audition.html)
 [![](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
