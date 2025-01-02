@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/uwp/xaml-platform/xaml-overview)
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown)
 [![](https://img.shields.io/badge/-MediaWiki-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://www.mediawiki.org/wiki/MediaWiki)
 [![](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)](https://www.w3.org/Graphics/SVG/)
