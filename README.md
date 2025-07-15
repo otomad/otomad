@@ -1,24 +1,76 @@
+<div align="center">
+
+[![HI THERE! Welcome to my profile page!](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=WELCOME%20TO%20OUR%20WORLD%20HERE!&fontSize=50&fontAlign=50&fontAlignY=30&desc=You're%20honored%20to%20enter%20the%20realm%20of%20our%20Dom-Loli%20Dual%20Cultivation%20Series!&descAlign=50&descSize=23.5&descAlignY=60&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
+[![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+</picture>
+
+[![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)\
+[![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&hide_border=true" />
+    <img alt="Otomad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&hide_border=true" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&hide_border=true&theme=radical" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&hide_border=true" />
+    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&hide_border=true&theme=radical" />
+  </picture>
+</a>
+</div>
+
+[![otomad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otomad&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+----
+
 - 👋 Hi, I’m @otomad.
 - 👀 I’m interested in Ancient Chinese Characters Research, Ancient Chinese Cultural Customs Research...
 - 🌱 I’m currently learning Mathematical Principles of Calculus, Probability Theory and Mathematical Statistics, Signals and Systems, Microwave Technology and Antennas, Optical fiber mobile communication principle...
 - 💞️ I’m looking to collaborate on Web and App User Interface Design, Video and Animation VFX Production, Music Arranging and Mixing, Font Style Design, Embedded Technology Development...
 - 📫 How to reach me? You can reach me on [Twitter](https://twitter.com/3Qvery) and Discord (@apresenta).
-----
 
 <!--
 otomad/otomad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 
-<!-- <div align="center" class="flex"> -->
+----
 
-[![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)<br />
-[![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#)<br />
-[![Otomad's github stats](https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![contributions](contributions.svg)](#)
+#### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cwasm%2Csvg%2Csass%2Cless%2Cpy%2Cc%2Ccpp%2Cdotnet%2Cjava%2Ckotlin%2Clua%2Clatex%2Cmd%2Cregex%2Creact%2Cvue%2Cmysql%2Cbash%2Cpowershell&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cwasm%2Csvg%2Csass%2Cless%2Cpy%2Cc%2Ccpp%2Cdotnet%2Cjava%2Ckotlin%2Clua%2Clatex%2Cmd%2Cregex%2Creact%2Cvue%2Cmysql%2Cbash%2Cpowershell&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,svg,sass,less,py,c,cpp,dotnet,java,kotlin,lua,latex,md,regex,react,vue,mysql,bash,powershell&theme=light" />
+</picture>
 
-<!-- </div> -->
+#### Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio%2Cvscode%2Cqt%2Cpycharm%2Cwebstorm%2Candroidstudio%2Canaconda%2Cwebpack%2Crollupjs%2Cvite%2Cpinia%2Cbabel%2Cdocker%2Cgit%2Cnodejs%2Copencv%2Cnpm%2Cyarn%2Cpnpm&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio%2Cvscode%2Cqt%2Cpycharm%2Cwebstorm%2Candroidstudio%2Canaconda%2Cwebpack%2Crollupjs%2Cvite%2Cpinia%2Cbabel%2Cdocker%2Cgit%2Cnodejs%2Copencv%2Cnpm%2Cyarn%2Cpnpm&theme=light" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,qt,pycharm,webstorm,androidstudio,anaconda,webpack,rollupjs,vite,pinia,babel,docker,git,nodejs,opencv,npm,yarn,pnpm&theme=light" />
+</picture>
+
+#### Skills
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cpr%2Cae%2Cau%2Cai%2Cautocad%2Cblender%2Cfigma&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ps%2Cpr%2Cae%2Cau%2Cai%2Cautocad%2Cblender%2Cfigma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,autocad,blender,figma&theme=light" />
+</picture>
+
 ----
 
 #### OS
@@ -40,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Eclipse-525C86?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 [![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.google.cn/studio/)
 
-#### Language
+#### Languages
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://tc39.es)
 [![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](http://gcc.gnu.org/)
