@@ -60,9 +60,9 @@
 <h4 align="center">3D Contribution Calendar</h4>
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/day.svg" />
-  <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/day.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/profile-dark-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/profile-light-north-season.svg" />
+  <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/profile-dark-rainbow.svg" />
 </picture>
 </a>
 
