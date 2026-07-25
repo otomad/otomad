@@ -1,84 +1,60 @@
 [
-    {
-        "type": "normal",
-        "fileName": "day.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#00000f",
-        "strongColor": "#111133",
-        "weakColor": "gray",
-        "radarColor": "#47a042",
-        "growingAnimation": true,
-        "contribColors": [
-            "#efefef",
-            "#d8e887",
-            "#8cc569",
-            "#47a042",
-            "#1d6a23"
-        ]
-    },
-    {
-        "type": "normal",
-        "fileName": "night.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
-        "weakColor": "#aaaaaa",
-        "radarColor": "#47a042",
-        "contribColors": [
-          "#444444",
-          "#1B7D28",
-          "#24A736",
-          "#2DD143",
-          "#57DA69"
-        ]
-    },
-    {
-        "type": "normal",
-        "fileName": "day.zh-hans.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#00000f",
-        "strongColor": "#111133",
-        "weakColor": "gray",
-        "radarColor": "#47a042",
-        "growingAnimation": true,
-        "contribColors": [
-            "#efefef",
-            "#d8e887",
-            "#8cc569",
-            "#47a042",
-            "#1d6a23"
-        ],
-        "l10n": {
-            "commit": "提交",
-            "repo": "仓库",
-            "review": "审查",
-            "pullreq": "拉取请求",
-            "issue": "议题",
-            "contrib": "贡献"
-        }
-    },
-    {
-        "type": "normal",
-        "fileName": "night.zh-hans.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
-        "weakColor": "#aaaaaa",
-        "radarColor": "#47a042",
-        "contribColors": [
-          "#444444",
-          "#1B7D28",
-          "#24A736",
-          "#2DD143",
-          "#57DA69"
-        ],
-        "l10n": {
-            "commit": "提交",
-            "repo": "仓库",
-            "review": "审查",
-            "pullreq": "拉取请求",
-            "issue": "议题",
-            "contrib": "贡献"
-        }
-    }
+	{
+		"type": "season",
+		"fileName": "profile-light-north-season.svg",
+		"backgroundColor": "transparent",
+		"foregroundColor": "#1f2328",
+		"strongColor": "#25292e",
+		"weakColor": "#59636e",
+		"radarColor": "#47a042",
+		"growingAnimation": true,
+		"contribColors1": [
+			"#efefef",
+			"#ffe7ff",
+			"#edaeda",
+			"#e492ca",
+			"#ba7aad"
+		],
+		"contribColors2": [
+			"#efefef",
+			"#d8e887",
+			"#8cc569",
+			"#47a042",
+			"#1d6a23"
+		],
+		"contribColors3": [
+			"#efefef",
+			"#ffed4a",
+			"#ffc402",
+			"#fe9400",
+			"#fa6100"
+		],
+		"contribColors4": [
+			"#efefef",
+			"#999999",
+			"#cccccc",
+			"#dddddd",
+			"#eeeeee"
+		]
+	},
+	{
+		"type": "rainbow",
+		"fileName": "profile-dark-rainbow.svg",
+		"backgroundColor": "transparent",
+		"foregroundColor": "#f0f6fc",
+		"strongColor": "#ffc837",
+		"weakColor": "#9198a1",
+		"radarColor": "#47a042",
+		"growingAnimation": true,
+		"saturation": "50%",
+		"contribLightness": [
+			"20%",
+			"30%",
+			"35%",
+			"40%",
+			"50%"
+		],
+		"duration": "10s",
+		"hueRatio": -7
+	}
 ]
