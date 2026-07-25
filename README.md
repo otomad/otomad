@@ -12,23 +12,23 @@
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
 <!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage" />
-    <img alt="Otomad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage" />
+    <img alt="Otomad's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes&hide_border=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes" />
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes&hide_border=true&theme=radical" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20" />
-    <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20" />
+    <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
   </picture>
 </a>
 </div>
