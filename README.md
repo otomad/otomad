@@ -3,14 +3,14 @@
 [![HI THERE! Welcome to my profile page!](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=WELCOME%20TO%20OUR%20WORLD%20HERE!&fontSize=50&fontAlign=50&fontAlignY=30&desc=You're%20honored%20to%20enter%20the%20realm%20of%20our%20Dom-Loli%20Dual%20Cultivation%20Series!&descAlign=50&descSize=23.5&descAlignY=60&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
 [![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
 
+[![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
+<!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
 </picture>
-
-[![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
-<!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
 
 <a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
@@ -18,13 +18,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage" />
     <img alt="Otomad's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
   </picture>
-  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes&hide_border=true&theme=radical" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes" />
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otomad&layout=compact&hide=c&langs_count=20&size_weight=0.5&count_weight=0.5&stats_format=bytes&hide_border=true&theme=radical" />
   </picture>
-  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20" />
