@@ -6,12 +6,14 @@
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
 <!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otomad&animation=load&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otomad&animation=load&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otomad&animation=load&theme=radical" />
 </picture>
-
+<br />
+</a>
 <a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=otomad&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&theme=radical" />
@@ -29,9 +31,66 @@
     <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=otomad&range=all_time&layout=compact&hide=other&langs_count=20&hide_border=true&theme=radical" />
   </picture>
 </a>
-</div>
+<br />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otomad&animation=load&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otomad&animation=load&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otomad&animation=load&theme=radical" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otomad&animation=load&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otomad&animation=load&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otomad&animation=load&theme=radical" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=otomad&animation=load&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=otomad&animation=load&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=otomad&animation=load&theme=radical" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=otomad&utcOffset=8&animation=load&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=otomad&utcOffset=8&animation=load&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=otomad&utcOffset=8&animation=load&theme=radical" />
+  </picture>
+</a>
 
 [![otomad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otomad&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<h4 align="center">3D Contribution Calendar</h4>
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/day.svg" />
+  <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/otomad/otomad/output-3d-contrib/day.svg" />
+</picture>
+</a>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=56647156">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56647156&image_size=auto&color_scheme=dark" width="771" />
+  <source media="(prefers-color-scheme: light)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56647156&image_size=auto&color_scheme=light" width="771" />
+  <img alt="Dashboard stats of @otomad" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56647156&image_size=auto&color_scheme=dark" width="771" />
+</picture>
+</a>
+<br />
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=56647156&activity_type=all">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=56647156&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=56647156&activity_type=all&image_size=auto&color_scheme=light" width="497.5" />
+  <img alt="@otomad's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=56647156&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" />
+</picture>
+</a>
+
+<h4 align="center">Funny Trophy</h4>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-1.vercel.app/?username=otomad&no-frame=true&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-1.vercel.app/?username=otomad&no-frame=true&theme=flat" />
+  <img alt="Trophy" src="https://github-profile-trophy-1.vercel.app/?username=otomad&no-frame=true&theme=radical" />
+</picture>
+</a>
+</div>
 
 ----
 
