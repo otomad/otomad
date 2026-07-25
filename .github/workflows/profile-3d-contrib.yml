@@ -1,4 +1,4 @@
-name: generate 3d chart for profile contributions
+name: Generate 3d chart for profile contributions
 
 on:
   # run automatically every 24 hours
