@@ -1,0 +1,84 @@
+[
+    {
+        "type": "normal",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#00000f",
+        "strongColor": "#111133",
+        "weakColor": "gray",
+        "radarColor": "#47a042",
+        "growingAnimation": true,
+        "contribColors": [
+            "#efefef",
+            "#d8e887",
+            "#8cc569",
+            "#47a042",
+            "#1d6a23"
+        ]
+    },
+    {
+        "type": "normal",
+        "fileName": "night.svg",
+        "backgroundColor": "#00000f",
+        "foregroundColor": "#eeeeff",
+        "strongColor": "rgb(255,200,55)",
+        "weakColor": "#aaaaaa",
+        "radarColor": "#47a042",
+        "contribColors": [
+          "#444444",
+          "#1B7D28",
+          "#24A736",
+          "#2DD143",
+          "#57DA69"
+        ]
+    },
+    {
+        "type": "normal",
+        "fileName": "day.zh-hans.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#00000f",
+        "strongColor": "#111133",
+        "weakColor": "gray",
+        "radarColor": "#47a042",
+        "growingAnimation": true,
+        "contribColors": [
+            "#efefef",
+            "#d8e887",
+            "#8cc569",
+            "#47a042",
+            "#1d6a23"
+        ],
+        "l10n": {
+            "commit": "提交",
+            "repo": "仓库",
+            "review": "审查",
+            "pullreq": "拉取请求",
+            "issue": "议题",
+            "contrib": "贡献"
+        }
+    },
+    {
+        "type": "normal",
+        "fileName": "night.zh-hans.svg",
+        "backgroundColor": "#00000f",
+        "foregroundColor": "#eeeeff",
+        "strongColor": "rgb(255,200,55)",
+        "weakColor": "#aaaaaa",
+        "radarColor": "#47a042",
+        "contribColors": [
+          "#444444",
+          "#1B7D28",
+          "#24A736",
+          "#2DD143",
+          "#57DA69"
+        ],
+        "l10n": {
+            "commit": "提交",
+            "repo": "仓库",
+            "review": "审查",
+            "pullreq": "拉取请求",
+            "issue": "议题",
+            "contrib": "贡献"
+        }
+    }
+]
