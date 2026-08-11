@@ -6,6 +6,12 @@
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
 <!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+</picture>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otomad&animation=load&theme=radical" />
