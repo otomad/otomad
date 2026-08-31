@@ -1,7 +1,15 @@
 <div align="center">
 
-[![HI THERE! Welcome to my profile page!](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=WELCOME%20TO%20OUR%20WORLD%20HERE!&fontSize=50&fontAlign=50&fontAlignY=30&desc=You're%20honored%20to%20enter%20the%20realm%20of%20our%20Dom-Loli%20Dual%20Cultivation%20Series!&descAlign=50&descSize=23.5&descAlignY=60&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
-[![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
+<details>
+<summary>Incomprehensible?</summary>
+
+[![欢迎来到咱这𖿲的世界！](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=欢迎来到咱这ㄦ的世界！&fontSize=60&fontAlign=50&fontAlignY=30&desc=你很荣幸来到我们的御萝双修系列专题。&descAlign=50&descSize=37&descAlignY=58&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
+[![版权所有★侵权必究](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=版权所有★侵权必究;未经授权禁止转载、翻版、盗用！)](https://readme-typing-svg.demolab.com/demo/)
+<br />
+</details>
+
+[![HI THERE! Welcome to my profile page!](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=WELCOME%20TO%20OUR%20WORLD%20HERE!&fontSize=50&fontAlign=50&fontAlignY=30&desc=You're%20honored%20to%20enter%20the%20realm%20of%20our%20Dom-Loli%20Dual%20Cultivation%20Series.&descAlign=50&descSize=23.5&descAlignY=60&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
+[![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
 
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
 <!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
