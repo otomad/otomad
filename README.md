@@ -4,20 +4,33 @@
 <summary>Incomprehensible?</summary>
 
 [![欢迎来到咱这𖿲的世界！](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=欢迎来到咱这ㄦ的世界！&fontSize=60&fontAlign=50&fontAlignY=30&desc=你很荣幸来到我们的御萝双修系列专题。&descAlign=50&descSize=37&descAlignY=58&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
-[![版权所有★侵权必究](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=版权所有★侵权必究;未经授权禁止转载、翻版、盗用！)](https://readme-typing-svg.demolab.com/demo/)
+[![版权所有★侵权必究](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&color=00A473&lines=版权所有★侵权必究;未经授权禁止转载、翻版、盗用！)](https://readme-typing-svg.demolab.com/demo/)
 <br />
 </details>
 
 [![HI THERE! Welcome to my profile page!](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=WELCOME%20TO%20OUR%20WORLD%20HERE!&fontSize=50&fontAlign=50&fontAlignY=30&desc=You're%20honored%20to%20enter%20the%20realm%20of%20our%20Dom-Loli%20Dual%20Cultivation%20Series.&descAlign=50&descSize=23.5&descAlignY=60&animation=twinkling)](https://github.com/kyechan99/capsule-render)\
-[![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
+[![502 Bad Gateway](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&color=00A473&lines=502+BAD+GATEWAY)](https://readme-typing-svg.demolab.com/demo/)
 
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)
 <!-- [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#) -->
 
+<!-- Contribution Grid Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/otomad/otomad/output/github-snake-dark.svg" />
+</picture>
+<!-- Github Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=otomad&theme=github-dark&card_width=854" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=otomad&theme=github-light&card_width=854" />
+  <img alt="github-streak" src="https://streak-stats.demolab.com?user=otomad&theme=github-dark&card_width=854" />
+</picture>
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=otomad&bg=020803&fg=ffffff&accent=5cffde&muted=18c3fb&dur=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=otomad&bg=e5fbff&fg=0f766e&accent=169c8d&muted=00699e&dur=10" />
+  <img alt="github-streak" src="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=otomad&bg=020803&fg=ffffff&accent=5cffde&muted=18c3fb&dur=10" />
 </picture>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -222,3 +235,8 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
 [![](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![](https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=200)
+</div>
